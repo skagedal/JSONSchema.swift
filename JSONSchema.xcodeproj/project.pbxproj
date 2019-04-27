@@ -327,11 +327,11 @@
 			};
 			buildConfigurationList = 27CF7EE31A9B9EDA0063FDE4 /* Build configuration list for PBXProject "JSONSchema" */;
 			compatibilityVersion = "Xcode 3.2";
-			developmentRegion = English;
+			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
-				English,
 				en,
+				Base,
 			);
 			mainGroup = 27CF7EDF1A9B9EDA0063FDE4;
 			productRefGroup = 27CF7EEA1A9B9EDA0063FDE4 /* Products */;
