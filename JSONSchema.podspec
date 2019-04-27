@@ -9,6 +9,7 @@ Pod::Spec.new do |spec|
   spec.source = { :git => 'https://github.com/kylef/JSONSchema.swift.git', :tag => "#{spec.version}" }
   spec.ios.deployment_target = '8.0'
   spec.osx.deployment_target = '10.9'
+  spec.swift_version = '5.0'
   spec.requires_arc = true
   spec.source_files = 'Sources/JSONSchema.{h,swift}', 'Sources/Validators.swift'
 end
